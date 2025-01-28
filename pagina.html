@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FTP Checker</title>
+    <style>
+        .green { color: green; }
+        .yellow { color: yellow; }
+        .red { color: red; }
+    </style>
+</head>
+<body>
+    <h1>Verificação de Pastas FTP</h1>
+    <button onclick="checkFolders()">Verificar Pastas</button>
+    <div id="results"></div>
+
+    <script>
+        async function checkFolders() {
+            const response = await fetch('https://localhost:5001/Ftp');
+            const data = await response.json();
+
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '';
+
+            data.forEach(item => {
+                const colorClass = item.hoursDifference <= 6 ? 'green' :
+                                   item.hoursDifference <= 12 ? 'yellow' : 'red';
+                resultsDiv.innerHTML += `
+                    <p class="${colorClass}">
+                        Região: ${item.Region} | Pasta: ${item.Folder} | Última modificação: ${new Date(item.LastModified).toLocaleString()}
+                    </p>
+                `;
+            });
+        }
+    </script>
+</body>
+</html>

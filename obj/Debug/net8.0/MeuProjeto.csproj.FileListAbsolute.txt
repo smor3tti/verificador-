@@ -1,0 +1,56 @@
+C:\Users\suporte.radar\Downloads\TEste\MeuProjeto\bin\Debug\net8.0\MeuProjeto.exe
+C:\Users\suporte.radar\Downloads\TEste\MeuProjeto\bin\Debug\net8.0\MeuProjeto.deps.json
+C:\Users\suporte.radar\Downloads\TEste\MeuProjeto\bin\Debug\net8.0\MeuProjeto.runtimeconfig.json
+C:\Users\suporte.radar\Downloads\TEste\MeuProjeto\bin\Debug\net8.0\MeuProjeto.dll
+C:\Users\suporte.radar\Downloads\TEste\MeuProjeto\bin\Debug\net8.0\MeuProjeto.pdb
+C:\Users\suporte.radar\Downloads\TEste\MeuProjeto\obj\Debug\net8.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporte.radar\Downloads\TEste\MeuProjeto\obj\Debug\net8.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\suporte.radar\Downloads\TEste\MeuProjeto\obj\Debug\net8.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\suporte.radar\Downloads\TEste\MeuProjeto\obj\Debug\net8.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\suporte.radar\Downloads\TEste\MeuProjeto\obj\Debug\net8.0\MeuProjeto.dll
+C:\Users\suporte.radar\Downloads\TEste\MeuProjeto\obj\Debug\net8.0\refint\MeuProjeto.dll
+C:\Users\suporte.radar\Downloads\TEste\MeuProjeto\obj\Debug\net8.0\MeuProjeto.pdb
+C:\Users\suporte.radar\Downloads\TEste\MeuProjeto\obj\Debug\net8.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\suporte.radar\Downloads\TEste\MeuProjeto\obj\Debug\net8.0\ref\MeuProjeto.dll
+C:\Users\suporte.radar\Documents\Tools Harrison\Verificador de pasta\bin\Debug\net8.0\MeuProjeto.exe
+C:\Users\suporte.radar\Documents\Tools Harrison\Verificador de pasta\bin\Debug\net8.0\MeuProjeto.deps.json
+C:\Users\suporte.radar\Documents\Tools Harrison\Verificador de pasta\bin\Debug\net8.0\MeuProjeto.runtimeconfig.json
+C:\Users\suporte.radar\Documents\Tools Harrison\Verificador de pasta\bin\Debug\net8.0\MeuProjeto.dll
+C:\Users\suporte.radar\Documents\Tools Harrison\Verificador de pasta\bin\Debug\net8.0\MeuProjeto.pdb
+C:\Users\suporte.radar\Documents\Tools Harrison\Verificador de pasta\obj\Debug\net8.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporte.radar\Documents\Tools Harrison\Verificador de pasta\obj\Debug\net8.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\suporte.radar\Documents\Tools Harrison\Verificador de pasta\obj\Debug\net8.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\suporte.radar\Documents\Tools Harrison\Verificador de pasta\obj\Debug\net8.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\suporte.radar\Documents\Tools Harrison\Verificador de pasta\obj\Debug\net8.0\MeuProjeto.dll
+C:\Users\suporte.radar\Documents\Tools Harrison\Verificador de pasta\obj\Debug\net8.0\refint\MeuProjeto.dll
+C:\Users\suporte.radar\Documents\Tools Harrison\Verificador de pasta\obj\Debug\net8.0\MeuProjeto.pdb
+C:\Users\suporte.radar\Documents\Tools Harrison\Verificador de pasta\obj\Debug\net8.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\suporte.radar\Documents\Tools Harrison\Verificador de pasta\obj\Debug\net8.0\ref\MeuProjeto.dll
+C:\Users\Sandro\Desktop\Verificador de pasta\bin\Debug\net8.0\MeuProjeto.exe
+C:\Users\Sandro\Desktop\Verificador de pasta\bin\Debug\net8.0\MeuProjeto.deps.json
+C:\Users\Sandro\Desktop\Verificador de pasta\bin\Debug\net8.0\MeuProjeto.runtimeconfig.json
+C:\Users\Sandro\Desktop\Verificador de pasta\bin\Debug\net8.0\MeuProjeto.dll
+C:\Users\Sandro\Desktop\Verificador de pasta\bin\Debug\net8.0\MeuProjeto.pdb
+C:\Users\Sandro\Desktop\Verificador de pasta\obj\Debug\net8.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandro\Desktop\Verificador de pasta\obj\Debug\net8.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\Sandro\Desktop\Verificador de pasta\obj\Debug\net8.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\Sandro\Desktop\Verificador de pasta\obj\Debug\net8.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Sandro\Desktop\Verificador de pasta\obj\Debug\net8.0\MeuProjeto.dll
+C:\Users\Sandro\Desktop\Verificador de pasta\obj\Debug\net8.0\refint\MeuProjeto.dll
+C:\Users\Sandro\Desktop\Verificador de pasta\obj\Debug\net8.0\MeuProjeto.pdb
+C:\Users\Sandro\Desktop\Verificador de pasta\obj\Debug\net8.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\Sandro\Desktop\Verificador de pasta\obj\Debug\net8.0\ref\MeuProjeto.dll
+C:\Users\Sandro\Desktop\verificador\bin\Debug\net8.0\MeuProjeto.exe
+C:\Users\Sandro\Desktop\verificador\bin\Debug\net8.0\MeuProjeto.deps.json
+C:\Users\Sandro\Desktop\verificador\bin\Debug\net8.0\MeuProjeto.runtimeconfig.json
+C:\Users\Sandro\Desktop\verificador\bin\Debug\net8.0\MeuProjeto.dll
+C:\Users\Sandro\Desktop\verificador\bin\Debug\net8.0\MeuProjeto.pdb
+C:\Users\Sandro\Desktop\verificador\obj\Debug\net8.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandro\Desktop\verificador\obj\Debug\net8.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\Sandro\Desktop\verificador\obj\Debug\net8.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\Sandro\Desktop\verificador\obj\Debug\net8.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Sandro\Desktop\verificador\obj\Debug\net8.0\MeuProjeto.dll
+C:\Users\Sandro\Desktop\verificador\obj\Debug\net8.0\refint\MeuProjeto.dll
+C:\Users\Sandro\Desktop\verificador\obj\Debug\net8.0\MeuProjeto.pdb
+C:\Users\Sandro\Desktop\verificador\obj\Debug\net8.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\Sandro\Desktop\verificador\obj\Debug\net8.0\ref\MeuProjeto.dll
